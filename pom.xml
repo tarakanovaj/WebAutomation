@@ -12,6 +12,7 @@
         <module>Generic</module>
         <module>Amazon</module>
         <module>facebook</module>
+        <module>Cnn</module>
     </modules>
 
     <properties>
