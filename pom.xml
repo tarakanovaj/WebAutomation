@@ -13,6 +13,7 @@
         <module>Amazon</module>
         <module>facebook</module>
         <module>Cnn</module>
+        <module>Citibank</module>
     </modules>
 
     <properties>
