@@ -1,0 +1,4 @@
+2021-06-30 23:06:570 INFO  LikeOnPostTest:42 - User enter email
+2021-06-30 23:06:674 INFO  LikeOnPostTest:42 - User enter pass
+2021-06-30 23:06:771 INFO  LikeOnPostTest:42 - User click loginButton
+2021-06-30 23:06:464 INFO  TestBase:243 - driver closed
