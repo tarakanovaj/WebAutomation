@@ -16,6 +16,7 @@
         <module>Citibank</module>
         <module>RestApiAutomationFW</module>
         <module>RestApiAutomationFW</module>
+        <module>Cigna</module>
     </modules>
 
     <properties>
