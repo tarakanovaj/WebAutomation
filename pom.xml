@@ -14,6 +14,8 @@
         <module>facebook</module>
         <module>Cnn</module>
         <module>Citibank</module>
+        <module>RestApiAutomationFW</module>
+        <module>RestApiAutomationFW</module>
     </modules>
 
     <properties>
